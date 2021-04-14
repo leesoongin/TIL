@@ -15,7 +15,7 @@
 
 # iOS
 
-- [테스트](https://github.com/leesoongin/TIL/blob/main/iOS/init)
+[하위 페이지 테스트](https://www.notion.so/1a2a098a11764ecaa267c28330c0a5dc)
 
 ---
 
