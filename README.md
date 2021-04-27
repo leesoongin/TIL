@@ -15,12 +15,19 @@
 
 # iOS
 
-[하위 페이지 테스트](https://www.notion.so/1a2a098a11764ecaa267c28330c0a5dc)
+- [테스트](https://github.com/leesoongin/TIL/blob/main/iOS/init)
 
 ---
 
 # Algorithm
 
 - [테스트](https://github.com/leesoongin/TIL/blob/main/Algorithm/init)
+
+---
+
+# 자료구조
+
+- [Tree](https://github.com/leesoongin/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Tree.md)
+- [Graph](https://github.com/leesoongin/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/Graph.md)
 
 ---
