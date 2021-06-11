@@ -15,7 +15,7 @@
 
 # iOS
 
-- [TableView - dynamic cell height](https://github.com/leesoongin/TIL/blob/main/iOS/TableView.md)
+- [TableView - Dynamic Cell Height](https://github.com/leesoongin/TIL/blob/main/iOS/TableView.md)
 
 ---
 
